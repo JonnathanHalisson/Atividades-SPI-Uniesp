@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp Spread Java Developer.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp Spread Java Developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lógica Condicional e Controle de Fluxos em Java/Lógica Condicional e Controle de Fluxos em Java.iml" filepath="$PROJECT_DIR$/Lógica Condicional e Controle de Fluxos em Java/Lógica Condicional e Controle de Fluxos em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando com Collections Java/Trabalhando com Collections Java.iml" filepath="$PROJECT_DIR$/Trabalhando com Collections Java/Trabalhando com Collections Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variáveis, Tipos de Dados e Operadores Matemáticos em Java/Variáveis, Tipos de Dados e Operadores Matemáticos em Java.iml" filepath="$PROJECT_DIR$/Variáveis, Tipos de Dados e Operadores Matemáticos em Java/Variáveis, Tipos de Dados e Operadores Matemáticos em Java.iml" />
+    </modules>
+  </component>
+</project>

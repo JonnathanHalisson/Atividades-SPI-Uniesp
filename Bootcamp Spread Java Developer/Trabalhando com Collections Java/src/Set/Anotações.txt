@@ -1,0 +1,3 @@
+A interface Set se encontra no java.util.Set
+
+As principais características não permitem elementos duplicados e não possui índice.
