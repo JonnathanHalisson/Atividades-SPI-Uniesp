@@ -1,4 +1,0 @@
-Listas
-
-Permite elementos duplicados e garante ordem de inserção.
-
